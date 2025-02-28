@@ -1,0 +1,4 @@
+estes.obj proc.obj reports.obj screens.obj +
+,estes.exe,, +
+..\lib\prg\clipper.lib +
+c:\clipper\clipper.lib c:\clipper\extend.lib
